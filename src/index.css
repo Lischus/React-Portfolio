@@ -13,7 +13,7 @@ code {
     monospace;
 }
 
-ul {
+.header-links {
   list-style-type: none;
   text-decoration-style: none;
   display: inline-block;
@@ -25,4 +25,9 @@ ul {
 
 .biography {
   justify-content: flex-end;
+}
+
+.project-picture {
+  height: 300px;
+  width: 300px;
 }

@@ -3,7 +3,7 @@ import React from "react";
 function Navigation({ currentPage, handlePageChange }) {
   return (
     <div>
-      <ul>
+      <ul className="header-links">
         <li>
           <a
             onClick={() => handlePageChange("AboutMe")}
