@@ -8,7 +8,6 @@ const style = {
   width: "100%",
   marginTop: "32px",
   padding: "32px",
-  //   position: "fixed",
   bottom: "0",
 };
 
