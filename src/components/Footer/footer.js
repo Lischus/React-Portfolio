@@ -8,7 +8,7 @@ const style = {
   width: "100%",
   marginTop: "32px",
   padding: "32px",
-  position: "fixed",
+  //   position: "fixed",
   bottom: "0",
 };
 
@@ -25,6 +25,13 @@ export default function Footer() {
           href="https://www.linkedin.com/in/martin-corr-3747a3225/"
         >
           LinkedIn
+        </Button>
+        <br></br>
+        <Button
+          variant="warning"
+          href="https://www.facebook.com/martin.corr.79/"
+        >
+          Facebook
         </Button>
       </p>
     </div>

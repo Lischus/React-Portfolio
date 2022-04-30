@@ -11,6 +11,7 @@ function Projects() {
   return (
     <div>
       <Container>
+        <h2>Workday Planner</h2>
         <a href="https://lischus.github.io/Day-Planner/">
           <img
             src={Planner}
@@ -18,6 +19,7 @@ function Projects() {
             className="project-picture"
           ></img>
         </a>
+        <h2>Employee Tracker</h2>
         <a href="https://github.com/Lischus/Employee-Tracker">
           <img
             src={Tracker}
@@ -25,6 +27,7 @@ function Projects() {
             className="project-picture"
           ></img>
         </a>
+        <h2>Weather Checker</h2>
         <a href="https://lischus.github.io/WeatherChecker/">
           <img
             src={Weather}
@@ -32,6 +35,7 @@ function Projects() {
             className="project-picture"
           ></img>
         </a>
+        <h2>Password Generator</h2>
         <a href="https://lischus.github.io/PasswordGenerator/">
           <img
             src={Password}
@@ -39,9 +43,11 @@ function Projects() {
             className="project-picture"
           ></img>
         </a>
+        <h2>Blue Sky Farmers Matchmaker</h2>
         <a href="https://radiant-caverns-76977.herokuapp.com/">
           <img src={Farmer} alt="Matchmaker" className="project-picture"></img>
         </a>
+        <h2>Text Editor</h2>
         <a href="https://secure-citadel-32557.herokuapp.com/">
           <img src={Jate} alt="Text Editor" className="project-picture"></img>
         </a>
