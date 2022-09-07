@@ -11,10 +11,23 @@ export default function AboutMe() {
         <Row>
           <Col sm={8}>
             <p>
-              Hello! My name is Martin Corr, and I'm the developer you want to
-              hire! I am currently a student at the University of Pennsylvania
-              Coding Bootcamp, set to graduate in May 2022 with training in
-              Javascript, MySQL, React and more!
+              I am a Front End Web Developer. I recently earned a certificate in
+              Full Stack Development from the University of Pennsylvania, where
+              I developed skills in JavaScript, CSS, React.js, responsive web
+              design, and more An innovative problem-solver passionate about
+              developing apps, my current focus is on mobile-first design and
+              development. I bring the following to every project:
+              <ul>
+                <li>Problem-solving skills</li>
+                <li>Dedication to teamwork</li>
+                <li>
+                  A foundational knowledge of agile software development
+                  principles
+                </li>
+                <li>A basic understanding of UX/UI principles</li>
+              </ul>
+              I'm excited to leverage my skills as part of a fast-paced,
+              quality-driven team.
             </p>
           </Col>
           <Col sm={4}>
